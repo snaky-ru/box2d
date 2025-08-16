@@ -1,3 +1,5 @@
+Binary/
+Intermediate/
 build/
 imgui.ini
 settings.ini
@@ -6,5 +8,6 @@ settings.ini
 .cap
 .DS_Store
 CMakeUserPresets.json
+Makefile
 .cache/
 .idea/
